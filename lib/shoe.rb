@@ -12,8 +12,8 @@ BRANDS = []
     puts "Your shoe is as good as new!"
   end
 
-def brand=(genre)
-    @gen = genre
-    GENRES << genre 
+def brand=(brand)
+    @brand = brand
+    BRANDS << 
   end
 end
